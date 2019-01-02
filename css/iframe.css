@@ -1,0 +1,47 @@
+body{
+	background-color:;
+}
+
+#mostra{
+position:absolute;
+background-color:white;
+
+}
+
+h6{
+	font-family:arial;
+	font-size:15px;
+}
+
+table{
+	width:478px;
+	height:30px;
+	margin-left:-7px;
+	margin-top:-5px;
+	border:1px solid white;
+
+}
+
+.formatacao{
+font-family:arial;
+font-size:19px;
+color:#660000;
+}
+.formatacao2{
+font-family:arial;
+font-size:18px;
+color:#000;
+}
+td{
+	border:1px solid #DCDCDC;
+}
+
+.g{
+	text-decoration:none;
+}
+
+h1{
+	font-family:arial;
+	font-size:40px;
+	color:#000;
+}

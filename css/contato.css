@@ -1,0 +1,185 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#fim{
+	width:1150px;
+	height:595px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1124px;
+height:560px;
+margin-left:10px;
+margin-top:5px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+
+h1{
+	font-family:arial;
+	font-size:22px;
+	margin-left:100px;
+	margin-top:140px;
+	position:absolute;
+	color:#660000;
+
+}
+h2{
+	font-family:arial;
+	font-size:15px;
+	margin-left:100px;
+	margin-top:180px;
+	position:absolute;
+	color:#660000;
+
+}
+h3{
+	font-family:arial;
+	font-size:19px;
+}
+h4{
+	font-family:arial;
+	font-size:19px;
+}
+form{
+font-family:arial;
+font-size:15pt;
+margin-left:-150px;
+margin-top:200px;
+width:380px;
+border:0px solid #000;
+}
+
+hr{
+	border:1px solid #660000;
+	height:500px;
+	width:1px;
+	position:absolute;
+	margin-left:520px;
+	margin-top:-325px;
+}
+
+.for{
+	height:25px;
+	font-size:17px;
+}
+.logo{
+	margin-top:20px;
+	margin-left:100px;
+
+}
+.input2{
+	height:25px;
+	font-family:arial;
+	font-size:17px;
+}
+
+#hora{
+	position:absolute;
+	margin-left:1050px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#data{
+	position:absolute;
+	margin-left:1150px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+
+#contato{
+	margin-top:-150px;
+	margin-left:300px;
+}
+
+.img{
+	width:48px;
+}
+.ajuda{
+	margin-left:1px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+
+}
+#blo{
+	margin-left:1020px;
+	margin-top:-87px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+}
+
+#blo2{
+	margin-left:890px;
+	margin-top:-80px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+border:0px solid #000;
+}
+
+.voltar{
+	margin-left:7px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+
+}
+
+.botao1{
+	margin-left:0px;
+	margin-top:0px;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	font-family:arial;
+	background-color:#660000;
+	border:1px solid #660000;
+	color:white;
+	position:absolute;
+}
+.botao2{
+	margin-left:120px;
+	margin-top:0px;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	font-family:arial;
+	background-color:#660000;
+	border:1px solid #660000;
+	color:white;
+	position:absolute;
+}
+
+#caixao{
+	margin-left:700px;
+	margin-top:-540px;
+	border:0px solid #000;
+}
+
+.formata{
+	font-family:arial;
+	font-size:18px;
+}

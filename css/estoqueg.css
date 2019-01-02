@@ -1,0 +1,429 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#meio{
+	border:px solid #000;
+	width:1100px;
+	height:30px;
+	margin:auto;
+}
+
+#fim{
+	width:1150px;
+	height:610px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1124px;
+height:575px;
+margin-left:10px;
+margin-top:5px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+#caixa{
+width:900px;
+height:400px;
+border:1px solid #660000;
+margin-top:20px;	
+margin-left:105px;
+float:left;
+position:absolute;
+background-color:white;
+
+
+}
+
+
+form{
+font-family:arial;
+font-size:15pt;
+
+margin-left:104px;
+	margin-top:50px;
+	border:0px solid #000;
+position:absolute;
+}
+
+#hora{
+	position:absolute;
+	margin-left:1050px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#data{
+	position:absolute;
+	margin-left:1150px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+
+#input1{
+	border:px solid #000;
+	float:left;
+
+}
+#input2{
+	border:px solid #000;
+	float:left;
+	margin-left:20px;
+	
+}
+#input3{
+	border:px solid #000;
+	float:left;
+		margin-left:20px;
+
+}
+#input4{
+	border:px solid #000;
+	float:left;
+		margin-left:20px;
+
+}
+#input5{
+	border:px solid #000;
+	float:left;
+	margin-left:20px;
+	margin-top:23px;
+}
+.input5{
+    width:120px;
+    height: 28px;
+    font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#008000;
+    border:0px;
+    border:px solid #FFA500;
+}
+
+#input6{
+	border:px solid #000;
+	margin-left:55px;
+}
+
+#input7{
+	border:px solid #000;
+	margin-left:55px;
+}
+#input8{
+	border:px solid #000;
+	margin-left:55px;
+}
+#input9{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input10{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input11{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input12{
+	border:px solid #000;
+	margin-left:0px;
+	position:absolute;
+	margin-top:-90px;
+	margin-left:55px;
+
+}
+#input13{
+	border:px solid #000;
+	position:absolute;
+	margin-top:455px;
+	margin-left:705px;
+font-family:arial;
+font-size:14pt;
+}
+
+#input14{
+	margin-left:0px;
+	position:absolute;
+	margin-top:460px;
+	margin-left:410px;
+font-family:arial;
+font-size:20pt;
+}
+
+#input15{
+	margin-left:0px;
+	position:absolute;
+	margin-top:455px;
+	margin-left:-11px;
+font-family:arial;
+font-size:20pt;
+}
+
+.id{
+	height:20px;
+	font-size:13pt;
+
+}
+.id2{
+	height:35px;
+	font-size:16pt;
+
+}
+.id3{
+	height:37px;
+	font-size:16pt;
+	width:218px;
+	color:green;
+
+}
+.id4{
+	height:25px;
+	font-size:16pt;
+	width:100px;
+
+}
+.id5{
+	height:43px;
+	font-size:20pt;
+	width:190px;
+	color:#FF0000;
+
+}
+
+.gravar{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+.gravar2{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+.gravar3{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+
+.remover{
+	width:150px;
+	height:35px;
+	margin-left:55px;
+	font-family:arial;
+	font-size:18px;
+    border:0px solid #FFA500;
+    background-color:#660000;
+    color:white;
+
+}
+
+h1{
+	font-family:arial;
+	font-size:13px;
+	margin-left:27px;
+	color:#660000;
+}
+
+.b{
+	margin-top:-23px;
+    margin-left: 100px;
+}
+
+.c{
+	margin-top:-23px;
+	margin-left:300px;
+}
+
+.d{
+	margin-top:-23px;
+	margin-left:440px;
+}
+
+.e{
+	margin-top:-23px;
+	margin-left:570px;
+}
+
+.f{
+	margin-top:-23px;
+	margin-left:575px;
+}
+
+.g{
+	margin-top:-23px;
+	margin-left:650px;
+}
+h2{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:400px;
+	margin-top:-23px;
+}
+h3{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:500px;
+	margin-top:-27px;
+}
+h4{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:630px;
+	margin-top:-29px;
+}
+
+
+#php{
+	font-family:arial;
+	font-size:16px;
+	margin-left:30px;
+	
+}
+
+#php2{
+	font-family:arial;
+	font-size:16px;
+	border:0px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:100px;
+	margin-top:-18px;
+	width:170px;
+}
+#php3{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:300px;
+	margin-top:-20px;
+}
+#php4{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:440px;
+	margin-top:-20px;
+}
+
+#php5{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:570px;
+	margin-top:-20px;
+}
+
+#php6{
+	margin-top:5px;
+	margin-left:150px;
+}
+
+.botao{
+	margin-left:10px;
+	margin-top:0px;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	font-family:arial;
+	background-color:#660000;
+	border:0px solid #660000;
+	color:white;
+	position:absolute;
+}
+
+.inputfor{
+	height:26px;
+	font-size:17px;
+}
+
+.img{
+	width:48px;
+}
+.ajuda{
+	margin-left:1px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+
+}
+#blo{
+	margin-left:1020px;
+	margin-top:-87px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+}
+
+#blo2{
+	margin-left:890px;
+	margin-top:-80px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+border:0px solid #000;
+}
+
+.voltar{
+	margin-left:7px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+}
+
+#aparece{
+	position:absolute;
+	margin-top:-28px;
+	color:white;
+	font-family:arial;
+	font-size:18px;
+	margin-left:210px;
+}
+

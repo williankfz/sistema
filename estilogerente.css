@@ -1,0 +1,90 @@
+#princi{
+	width:1150px;
+	height:1000px;
+	margin:auto;
+	border-left:25px solid #660000;
+	border-right:25px solid #660000;
+	border-top:20px solid #660000;
+	border-bottom:20px solid #660000;
+	text-decoration:none;
+	background-color:#660000;
+}
+
+#banner{
+	width:1150px;
+	height:100px;
+}
+.banner{
+	width:100%;
+	height:100%;
+}
+
+#menu{
+	width:1150px;
+	height:60px;
+	border:px solid;
+	background-color:#3CB371;
+}
+#menu ul {
+	width:100%;
+     height: 0%;
+     float: left;
+	 text-align: center;
+	 list-style-type: none;
+}
+#menu > ul > li {
+     width:auto;
+     height:auto;
+     float: left;
+	 position:center;
+     padding: 5px 15px;
+     text-align: center;
+     font-family: Stika Banner, sans-serif;
+     font-size: 20px;
+	 margin-top:-5px;
+     margin-left:30px;
+	 padding:0px;
+  }
+
+#cont{
+	width:1145px;
+	height:845px;
+	margin:auto;
+	border:3px solid #FFA500;
+	background-color:#FAFAD2;
+}
+
+.conte{
+	width:1145px;
+	height:830px;
+}
+
+#rodape{
+	
+	position:absolute;
+	bottom:-237;
+	width:1145px;
+	height:50px;
+	border:px solid;
+	background-color:#3CB371;
+}
+
+
+#data{
+	border:px solid;
+	margin-left:1080px;
+	margin-top:5px;
+	font-family: Stika Banner, sans-serif;
+}
+#hora{
+	border:px solid;
+	float:left;
+    margin-left:1080px;
+}
+
+.contato{
+margin:auto;
+margin-left:375px;
+margin-top:60px;
+
+}

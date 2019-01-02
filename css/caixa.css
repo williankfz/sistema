@@ -1,0 +1,302 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#meio{
+	border:px solid #000;
+	width:1100px;
+	height:30px;
+	margin:auto;
+}
+
+#fim{
+	width:1150px;
+	height:635px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1124px;
+height:600px;
+margin-left:10px;
+margin-top:5px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+
+#caixa{
+	width:480px;
+	height:555px;
+	border:1px solid #660000;
+margin-top:-62px;	
+margin-left:30px;
+float:left;
+position:absolute;
+background-color:white;
+
+}
+
+#caixa2{
+	width:600px;
+	height:400px;
+	border:0px solid #000;
+margin-top:60px;	
+margin-left:500px;
+font-family:arial;
+font-size:15pt;
+
+}
+
+
+.forprin{
+font-family:arial;
+font-size:15pt;
+margin-left:80px;
+margin-top:20px;
+border:px solid #000;
+}
+
+.form2{
+	margin-top:20px;
+	margin-left:41px;
+}
+
+#input1{
+	border:0px solid #000;
+    margin-left:640px;
+	width:275px;
+}
+
+#input2{
+	border:px solid #000;
+	float:left;
+	margin-left:845px;
+	margin-top:-36px;
+}
+.input5{
+    width:160px;
+    height: 35px;
+    font-family:arial;
+	font-size:18px;
+    color:#000;
+    background-color:#FFA500;
+    border:0px;
+    border:px solid #FFA500;
+box-shadow: 1px 2px 3px #000;
+
+}
+
+.sal{
+ width:90px;
+    height: 38px;
+    font-family:arial;
+	font-size:18px;
+    color:#000;
+    background-color:#FFA500;
+    border:0px;
+    border:px solid #FFA500;
+box-shadow: 3px 2px 3px #000;
+}
+
+.salvar{
+	margin-left:365px;
+	margin-top:-38px;
+}
+
+.prod{
+	margin-top:0px;
+	margin-left:-35px;
+	position:absolute;
+box-shadow: 1px 2px 3px #000;
+
+}
+
+.cod{
+margin-top:30px;
+	margin-left:510px;
+	position:absolute;
+box-shadow: 1px 2px 3px #000;
+}
+
+.cod2{
+margin-top:0px;
+	margin-left:-30px;
+	position:absolute;
+box-shadow: 1px 2px 3px #000;
+}
+
+.total{
+margin-top:60px;
+margin-left:-35px;
+position:absolute;
+box-shadow: 1px 2px 3px #000;
+
+}
+
+.id5{
+	height:33px;
+	font-size:18pt;
+box-shadow: 1px 2px 3px #000;
+margin-left:-540px;
+}
+#input3{
+	border:px solid #000;
+	margin-left:120px;
+}
+
+#input4{
+	border:px solid #000;
+	margin-left:120px;
+}
+#input5{
+	border:px solid #000;
+	margin-left:120px;
+}
+#input6{
+	border:px solid #000;
+	margin-left:120px;
+}
+
+
+.id{
+	height:30px;
+	font-size:15pt;
+box-shadow: 1px 2px 3px #000;
+	margin-top:30px;
+}
+.id2{
+	height:33px;
+	font-size:18pt;
+box-shadow: 5px 2px 3px #000;
+}
+.id3{
+	height:40px;
+	font-size:20pt;
+box-shadow: 5px 2px 3px #000;
+
+}
+.id4{
+	height:44px;
+	font-size:20pt;
+    margin-left:120px;
+	margin-top:60px;
+box-shadow: 5px 2px 3px #000;
+	background-color:#660000;
+border:0px;
+color:white;
+}
+
+.lanchonete{
+font-size:15pt;
+font-family:arial;
+margin-left:50px;
+margin-top:8px;
+width:300px;
+}
+
+
+
+.fechamento{
+	margin-left:488px;
+	margin-bottom:34px;
+}
+.fechamento2{
+	margin-left:648px;
+	margin-top:-36px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+	width:180px;
+}
+
+
+#com{
+	margin-left:500px;
+  margin-top:-90px;
+}
+
+.com2{
+margin-left:485px;
+	margin-top:2px;
+	font-size:18px;
+	font-family:arial;
+	color:#660000;
+	width:195px;
+}
+a{
+	text-decoration:none; 
+}
+
+
+#hora{
+	position:absolute;
+	margin-left:1050px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#data{
+	position:absolute;
+	margin-left:1150px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+
+
+iframe{
+	width:478px;
+	height:518px;
+	margin-top:-5px;
+	border:1px solid white;
+	margin-left:0px;
+}
+
+.img{
+	width:48px;
+}
+.ajuda{
+	margin-left:1px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+}
+#blo{
+	margin-left:1025px;
+	margin-top:-73px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+}
+
+#blo2{
+	margin-left:890px;
+	margin-top:-80px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+border:0px solid #000;
+}
+
+.voltar{
+	margin-left:7px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+}
+

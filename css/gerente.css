@@ -1,0 +1,243 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#fim{
+	width:1150px;
+	height:595px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1124px;
+height:560px;
+margin-left:10px;
+margin-top:5px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+
+h1{
+	font-family:arial;
+	font-size:22px;
+	margin-left:100px;
+	margin-top:140px;
+	position:absolute;
+	color:#660000;
+
+}
+h2{
+	font-family:arial;
+	font-size:15px;
+	margin-left:100px;
+	margin-top:180px;
+	position:absolute;
+	color:#660000;
+
+}
+form{
+font-family:arial;
+font-size:15pt;
+margin-left:100px;
+margin-top:250px;
+width:380px;
+}
+
+hr{
+	border:1px solid #660000;
+	height:500px;
+	width:1px;
+	position:absolute;
+	margin-left:520px;
+	margin-top:-325px;
+}
+
+.logo{
+	margin-top:20px;
+	margin-left:100px;
+
+}
+.input2{
+	height:25px;
+	font-family:arial;
+	font-size:17px;
+}
+
+#hora{
+	position:absolute;
+	margin-left:1050px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#data{
+	position:absolute;
+	margin-left:1150px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#linha1{
+	width:900px;
+	height:150px;
+	border:px solid;
+	margin-top:40px;
+	margin-left:105px;
+	border:0px solid #000;
+}
+#linha2{
+	width:700px;
+	height:150px;
+    border:px solid;
+	margin-top:110px;
+	margin-left:299px;
+
+}
+.caixa{
+	width:100px;
+	height:100px;
+	margin-left:50px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+	border:0px solid #000;
+
+}
+.funcionario{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.estoque{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.notificacao{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.relatorio{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.conta{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.ajuda{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.sair{
+	width:100px;
+	height:100px;
+	margin-top:0px;
+	float:left;
+	padding:30px;
+}
+.img{
+	width:100px;
+	height:100px;
+}
+
+.p1{
+	margin-left:16px;
+	border:0px solid #000;
+}
+.p2{
+	margin-left:44px;
+	border:0px solid #000;
+}
+.p3{
+	margin-left:13px;
+	border:0px solid #000;
+}
+
+.func2{
+	font-size:19px;
+	font-family:arial;
+	text-decoration:none;
+	color:#000;
+}
+
+.func2:hover{
+	color:#660000;
+	text-decoration:underline;
+}
+
+.img3{
+	width:48px;
+}
+.ajuda3{
+	margin-left:1px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+}
+#blo{
+	margin-left:1020px;
+	margin-top:-87px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+}
+
+#blo2{
+	margin-left:890px;
+	margin-top:-80px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+border:0px solid #000;
+}
+
+.voltar3{
+	margin-left:13px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+text-decoration:none;
+
+}
+
+#aparece{
+	position:absolute;
+	margin-top:-28px;
+	color:white;
+	font-family:arial;
+	font-size:18px;
+	margin-left:210px;
+}

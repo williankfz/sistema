@@ -1,0 +1,330 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#meio{
+	border:px solid #000;
+	width:1100px;
+	height:30px;
+	margin:auto;
+}
+
+#fim{
+	width:1150px;
+	height:640px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1126px;
+height:617px;
+margin-left:10px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+
+#caixa{
+width:500px;
+height:300px;
+border:1px solid #660000;
+margin-top:100px;	
+margin-left:300px;
+float:left;
+position:absolute;
+background-color:white;
+
+
+}
+
+
+form{
+font-family:arial;
+font-size:15pt;
+margin-left:41px;
+margin-top:20px;
+}
+
+#input1{
+	border:px solid #000;
+	float:left;
+
+}
+#input2{
+	border:px solid #000;
+	float:left;
+	margin-left:20px;
+	
+}
+#input3{
+	border:px solid #000;
+	float:left;
+		margin-left:20px;
+
+}
+#input4{
+	border:px solid #000;
+	float:left;
+		margin-left:20px;
+
+}
+#input5{
+	border:px solid #000;
+	float:left;
+	margin-left:20px;
+	margin-top:23px;
+}
+.input5{
+    width:120px;
+    height: 28px;
+    font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#008000;
+    border:0px;
+    border:px solid #FFA500;
+}
+
+#input6{
+	border:px solid #000;
+	margin-left:55px;
+}
+
+#input7{
+	border:px solid #000;
+	margin-left:55px;
+}
+#input8{
+	border:px solid #000;
+	margin-left:55px;
+}
+#input9{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input10{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input11{
+	border:px solid #000;
+	margin-left:0px;
+}
+#input12{
+	border:px solid #000;
+	margin-left:0px;
+	position:absolute;
+	margin-top:-90px;
+	margin-left:55px;
+
+}
+#input13{
+	border:px solid #000;
+	position:absolute;
+	margin-top:455px;
+	margin-left:705px;
+font-family:arial;
+font-size:14pt;
+}
+
+#input14{
+	margin-left:0px;
+	position:absolute;
+	margin-top:460px;
+	margin-left:410px;
+font-family:arial;
+font-size:20pt;
+}
+
+#input15{
+	margin-left:0px;
+	position:absolute;
+	margin-top:455px;
+	margin-left:-11px;
+font-family:arial;
+font-size:20pt;
+}
+
+.id{
+	height:20px;
+	font-size:13pt;
+
+}
+.id2{
+	height:35px;
+	font-size:16pt;
+
+}
+.id3{
+	height:37px;
+	font-size:16pt;
+	width:218px;
+	color:green;
+
+}
+.id4{
+	height:25px;
+	font-size:16pt;
+	width:100px;
+
+}
+.id5{
+	height:43px;
+	font-size:20pt;
+	width:190px;
+	color:#FF0000;
+
+}
+
+.gravar{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+.gravar2{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+.gravar3{
+	height:35px;
+    width:221px;
+	margin-left:55px;
+	margin-top:4px;
+	font-family:arial;
+	font-size:18px;
+    color:white;
+    background-color:#660000;
+    border:0px solid #FFA500;
+}
+
+.remover{
+	width:150px;
+	height:35px;
+	margin-left:55px;
+	font-family:arial;
+	font-size:18px;
+    border:0px solid #FFA500;
+    background-color:#660000;
+    color:white;
+
+}
+
+h1{
+	font-family:arial;
+	font-size:13px;
+	margin-left:27px;
+	color:#660000;
+}
+
+.b{
+	margin-top:-23px;
+    margin-left: 100px;
+}
+
+.c{
+	margin-top:-23px;
+	margin-left:200px;
+}
+
+.d{
+	margin-top:-23px;
+	margin-left:280px;
+}
+
+.e{
+	margin-top:-23px;
+	margin-left:380px;
+}
+h2{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:400px;
+	margin-top:-23px;
+}
+h3{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:500px;
+	margin-top:-27px;
+}
+h4{
+	font-family:arial;
+	font-size:13px;
+	color:#660000;
+	margin-left:630px;
+	margin-top:-29px;
+}
+
+
+#php{
+	font-family:arial;
+	font-size:16px;
+	margin-left:30px;
+	
+}
+
+#php2{
+	font-family:arial;
+	font-size:16px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:100px;
+	margin-top:-18px;
+}
+#php3{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:210px;
+	margin-top:-20px;
+}
+#php4{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:300px;
+	margin-top:-20px;
+}
+
+#php5{
+	font-family:arial;
+	font-size:17px;
+	border:px solid #000;
+	width:100px;
+	height:20px;
+	margin-left:380px;
+	margin-top:-20px;
+}
+

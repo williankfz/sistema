@@ -1,0 +1,147 @@
+body{
+	background-color:;
+}
+
+#inicio{
+	width:1150px;
+	height:100px;
+	margin:auto;
+	border:1px solid #660000;
+    border-bottom:25px solid #660000;
+background-color:#FAFAD2;
+
+}
+
+#meio{
+	border:px solid #000;
+	width:1100px;
+	height:30px;
+	margin:auto;
+}
+
+#fim{
+	width:1150px;
+	height:400px;
+	margin:auto;
+	border:1px solid #660000;
+	background-color:#660000;
+
+}
+
+#fim2{
+width:1124px;
+height:365px;
+margin-left:10px;
+margin-top:5px;
+background-color:#FAFAD2;
+border:3px solid #FFA500;
+}
+
+h1{
+	font-family:arial;
+	font-size:19px;
+}
+form{
+	margin-left:390px;
+	margin-top:70px;
+	border:px solid #000;
+}
+
+
+input{
+	height:30px;
+	font-size:18px;
+}
+
+.botao{
+	margin-left:-100px;
+	margin-top:50px;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	font-family:arial;
+	background-color:#660000;
+	border:1px solid #660000;
+	color:white;
+	position:absolute;
+}
+.botao2{
+	margin-left:0px;
+	margin-top:20px;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	font-family:arial;
+	background-color:#660000;
+	border:1px solid #660000;
+	color:white;
+	position:absolute;
+}
+.formatacao{
+	font-size:19px;
+	font-family:arial;
+}
+a{
+	text-decoration:none; 
+}
+
+#hora{
+	position:absolute;
+	margin-left:1050px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+#data{
+	position:absolute;
+	margin-left:1150px;
+	color:white;
+	margin-top:-19px;
+	font-family:arial;
+font-size:18px;
+}
+
+.img{
+	width:48px;
+}
+.ajuda{
+	margin-left:1px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+}
+#blo{
+	margin-left:1020px;
+	margin-top:-87px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+}
+
+
+#blo2{
+	margin-left:1030px;
+	margin-top:-85px;
+	border:0px solid #000;
+	height:80px;
+	width:70px;
+border:0px solid #000;
+}
+
+.voltar{
+	margin-left:7px;
+	font-family:arial;
+	font-size:18px;
+	color:#660000;
+}
+
+#aparece{
+	position:absolute;
+	margin-top:-28px;
+	color:white;
+	font-family:arial;
+	font-size:18px;
+	margin-left:210px;
+}
+
